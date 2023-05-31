@@ -1,0 +1,93 @@
+[
+  {
+    "name" : "aaitbaha/babysteps/md_hello",
+    "description" : "markdown basic hello test",
+    "tags" : [
+      "markdown",
+      "hello"
+    ],
+    "version" : "6",
+    "layout" : "zeppelin",
+    "type" : "Default",
+    "readOnly" : false,
+    "snapshot" : false,
+    "template" : "dsrgmn3y",
+    "templateConfig" : "{}",
+    "paragraphs" : [
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 0,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%python",
+          "print (\"hello\")"
+        ],
+        "selectedVisualization" : "raw",
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : {
+          "startTime" : 1685453768672,
+          "endTime" : 1685453768745,
+          "interpreter" : "python",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "hello\n",
+              "type" : "TEXT"
+            }
+          ],
+          "forms" : "[]"
+        },
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      },
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 0,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%python",
+          "print (\"Aloha from Morocco\")"
+        ],
+        "selectedVisualization" : "raw",
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : {
+          "startTime" : 1685536688269,
+          "endTime" : 1685536688363,
+          "interpreter" : "python",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "Aloha from Morocco\n",
+              "type" : "TEXT"
+            }
+          ],
+          "forms" : "[]"
+        },
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      }
+    ]
+  }
+]
