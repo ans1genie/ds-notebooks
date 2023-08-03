@@ -1,2 +1,1 @@
-hello again from adb!
-Another line 
+Hello, this is the content to be written into the file.
