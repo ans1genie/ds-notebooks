@@ -15,7 +15,44 @@
         "row" : 0,
         "col" : 0,
         "sizeX" : 0,
-        "width" : 0,
+        "width" : 12,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%md",
+          "> Hey friend, just smile :)"
+        ],
+        "selectedVisualization" : "html",
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : {
+          "startTime" : 1692110325652,
+          "endTime" : 1692110325720,
+          "interpreter" : "md",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "<blockquote>\n<p>Hey friend, just smile :)</p>\n</blockquote>\n",
+              "type" : "HTML"
+            }
+          ],
+          "forms" : "[]"
+        },
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      },
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 12,
         "title" : null,
         "hasTitle" : false,
         "message" : [
@@ -52,7 +89,7 @@
         "row" : 0,
         "col" : 0,
         "sizeX" : 0,
-        "width" : 0,
+        "width" : 12,
         "title" : null,
         "hasTitle" : false,
         "message" : [
@@ -77,43 +114,6 @@
           "results" : [
             {
               "message" : "<h1 id=\"helloooow\">Helloooow</h1>\n",
-              "type" : "HTML"
-            }
-          ],
-          "forms" : "[]"
-        },
-        "relations" : [ ],
-        "dynamicFormParams" : null
-      },
-      {
-        "row" : 0,
-        "col" : 0,
-        "sizeX" : 0,
-        "width" : 0,
-        "title" : null,
-        "hasTitle" : false,
-        "message" : [
-          "%md",
-          "> Smile bro"
-        ],
-        "selectedVisualization" : "html",
-        "visualizationConfig" : null,
-        "hideCode" : false,
-        "hideResult" : false,
-        "hideGutter" : true,
-        "hideVizConfig" : false,
-        "hideInIFrame" : false,
-        "enabled" : true,
-        "forms" : null,
-        "result" : {
-          "startTime" : 1692110035554,
-          "endTime" : 1692110035621,
-          "interpreter" : "md",
-          "taskStatus" : "SUCCESS",
-          "status" : "SUCCESS",
-          "results" : [
-            {
-              "message" : "<blockquote>\n<p>Smile bro</p>\n</blockquote>\n",
               "type" : "HTML"
             }
           ],
