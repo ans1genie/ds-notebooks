@@ -31,20 +31,7 @@
         "hideInIFrame" : false,
         "enabled" : true,
         "forms" : null,
-        "result" : {
-          "startTime" : 1691404601245,
-          "endTime" : 1691404601298,
-          "interpreter" : "md",
-          "taskStatus" : "SUCCESS",
-          "status" : "SUCCESS",
-          "results" : [
-            {
-              "message" : "<p><strong>Hello World</strong></p>\n",
-              "type" : "HTML"
-            }
-          ],
-          "forms" : "[]"
-        },
+        "result" : null,
         "relations" : [ ],
         "dynamicFormParams" : null
       },
@@ -68,20 +55,7 @@
         "hideInIFrame" : false,
         "enabled" : true,
         "forms" : null,
-        "result" : {
-          "startTime" : 1692110020477,
-          "endTime" : 1692110020541,
-          "interpreter" : "md",
-          "taskStatus" : "SUCCESS",
-          "status" : "SUCCESS",
-          "results" : [
-            {
-              "message" : "<h1 id=\"helloooow\">Helloooow</h1>\n",
-              "type" : "HTML"
-            }
-          ],
-          "forms" : "[]"
-        },
+        "result" : null,
         "relations" : [ ],
         "dynamicFormParams" : null
       },
@@ -105,20 +79,7 @@
         "hideInIFrame" : false,
         "enabled" : true,
         "forms" : null,
-        "result" : {
-          "startTime" : 1692110035554,
-          "endTime" : 1692110035621,
-          "interpreter" : "md",
-          "taskStatus" : "SUCCESS",
-          "status" : "SUCCESS",
-          "results" : [
-            {
-              "message" : "<blockquote>\n<p>Smile bro</p>\n</blockquote>\n",
-              "type" : "HTML"
-            }
-          ],
-          "forms" : "[]"
-        },
+        "result" : null,
         "relations" : [ ],
         "dynamicFormParams" : null
       },
@@ -156,6 +117,78 @@
         "message" : [
           "%md",
           "# HOLLA 2"
+        ],
+        "selectedVisualization" : null,
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : null,
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      },
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 0,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%md",
+          "HOOOA"
+        ],
+        "selectedVisualization" : null,
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : null,
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      },
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 0,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%md",
+          "HOOOA 2"
+        ],
+        "selectedVisualization" : null,
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : null,
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      },
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 0,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%md",
+          "HOOOA "
         ],
         "selectedVisualization" : null,
         "visualizationConfig" : null,
