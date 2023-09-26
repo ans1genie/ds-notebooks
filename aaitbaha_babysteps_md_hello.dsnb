@@ -9,13 +9,50 @@
     "readOnly" : false,
     "snapshot" : false,
     "template" : "dsrgmn3y",
-    "templateConfig" : "{\"visualization\":{\"filters\":[{\"_id\":1583324064459,\"type\":\"styling\",\"enabled\":true,\"conditions\":{\"operator\":\"and\",\"conditions\":[{\"property\":\"hiddenConnection\",\"operator\":\"*\",\"value\":\"\"}]},\"component\":\"edge\",\"target\":\"edge\",\"properties\":{\"colors\":[\"rgba(0, 0, 0, 0.1)\"],\"style\":[\"dashed\"],\"legendTitle\":[\"Hidden Connection\"]}},{\"_id\":1590499315755,\"type\":\"aggregation\",\"enabled\":true,\"conditions\":{\"operator\":\"and\",\"conditions\":[]},\"component\":\"vertex\",\"target\":\"vertex\",\"properties\":{},\"aggregation\":[{\"source\":\"\",\"type\":\"average\"}]}],\"version\":4}}",
+    "templateConfig" : "{}",
     "paragraphs" : [
       {
         "row" : 0,
         "col" : 0,
         "sizeX" : 0,
-        "width" : 0,
+        "width" : 12,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%md",
+          "> Hey friend, just smile :)"
+        ],
+        "selectedVisualization" : "html",
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : {
+          "startTime" : 1692110325652,
+          "endTime" : 1692110325720,
+          "interpreter" : "md",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "<blockquote>\n<p>Hey friend, just smile :)</p>\n</blockquote>\n",
+              "type" : "HTML"
+            }
+          ],
+          "forms" : "[]"
+        },
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      },
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 12,
         "title" : null,
         "hasTitle" : false,
         "message" : [
@@ -31,7 +68,20 @@
         "hideInIFrame" : false,
         "enabled" : true,
         "forms" : null,
-        "result" : null,
+        "result" : {
+          "startTime" : 1691404601245,
+          "endTime" : 1691404601298,
+          "interpreter" : "md",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "<p><strong>Hello World</strong></p>\n",
+              "type" : "HTML"
+            }
+          ],
+          "forms" : "[]"
+        },
         "relations" : [ ],
         "dynamicFormParams" : null
       },
@@ -39,7 +89,7 @@
         "row" : 0,
         "col" : 0,
         "sizeX" : 0,
-        "width" : 0,
+        "width" : 12,
         "title" : null,
         "hasTitle" : false,
         "message" : [
@@ -55,7 +105,20 @@
         "hideInIFrame" : false,
         "enabled" : true,
         "forms" : null,
-        "result" : null,
+        "result" : {
+          "startTime" : 1692110020477,
+          "endTime" : 1692110020541,
+          "interpreter" : "md",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "<h1 id=\"helloooow\">Helloooow</h1>\n",
+              "type" : "HTML"
+            }
+          ],
+          "forms" : "[]"
+        },
         "relations" : [ ],
         "dynamicFormParams" : null
       },
@@ -63,12 +126,12 @@
         "row" : 0,
         "col" : 0,
         "sizeX" : 0,
-        "width" : 0,
+        "width" : 12,
         "title" : null,
         "hasTitle" : false,
         "message" : [
           "%md",
-          "> Smile bro"
+          "# Mooooorning "
         ],
         "selectedVisualization" : "html",
         "visualizationConfig" : null,
@@ -79,7 +142,20 @@
         "hideInIFrame" : false,
         "enabled" : true,
         "forms" : null,
-        "result" : null,
+        "result" : {
+          "startTime" : 1695730888457,
+          "endTime" : 1695730888520,
+          "interpreter" : "md",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "<h1 id=\"mooooorning\">Mooooorning</h1>\n",
+              "type" : "HTML"
+            }
+          ],
+          "forms" : "[]"
+        },
         "relations" : [ ],
         "dynamicFormParams" : null
       },
@@ -87,14 +163,14 @@
         "row" : 0,
         "col" : 0,
         "sizeX" : 0,
-        "width" : 0,
+        "width" : 12,
         "title" : null,
         "hasTitle" : false,
         "message" : [
           "%md",
-          "# HOLLA"
+          "### Smile tho"
         ],
-        "selectedVisualization" : null,
+        "selectedVisualization" : "html",
         "visualizationConfig" : null,
         "hideCode" : false,
         "hideResult" : false,
@@ -103,7 +179,20 @@
         "hideInIFrame" : false,
         "enabled" : true,
         "forms" : null,
-        "result" : null,
+        "result" : {
+          "startTime" : 1695730887506,
+          "endTime" : 1695730887585,
+          "interpreter" : "md",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "<h3 id=\"smile-tho\">Smile tho</h3>\n",
+              "type" : "HTML"
+            }
+          ],
+          "forms" : "[]"
+        },
         "relations" : [ ],
         "dynamicFormParams" : null
       },
@@ -111,14 +200,18 @@
         "row" : 0,
         "col" : 0,
         "sizeX" : 0,
-        "width" : 0,
+        "width" : 12,
         "title" : null,
         "hasTitle" : false,
         "message" : [
           "%md",
-          "# HOLLA 2"
+          "> This is a test. I am a quote",
+          "",
+          "### I am just a header",
+          "",
+          "Disregard this text right now"
         ],
-        "selectedVisualization" : null,
+        "selectedVisualization" : "html",
         "visualizationConfig" : null,
         "hideCode" : false,
         "hideResult" : false,
@@ -127,79 +220,20 @@
         "hideInIFrame" : false,
         "enabled" : true,
         "forms" : null,
-        "result" : null,
-        "relations" : [ ],
-        "dynamicFormParams" : null
-      },
-      {
-        "row" : 0,
-        "col" : 0,
-        "sizeX" : 0,
-        "width" : 0,
-        "title" : null,
-        "hasTitle" : false,
-        "message" : [
-          "%md",
-          "HOOOA"
-        ],
-        "selectedVisualization" : null,
-        "visualizationConfig" : null,
-        "hideCode" : false,
-        "hideResult" : false,
-        "hideGutter" : true,
-        "hideVizConfig" : false,
-        "hideInIFrame" : false,
-        "enabled" : true,
-        "forms" : null,
-        "result" : null,
-        "relations" : [ ],
-        "dynamicFormParams" : null
-      },
-      {
-        "row" : 0,
-        "col" : 0,
-        "sizeX" : 0,
-        "width" : 0,
-        "title" : null,
-        "hasTitle" : false,
-        "message" : [
-          "%md",
-          "HOOOA 2"
-        ],
-        "selectedVisualization" : null,
-        "visualizationConfig" : null,
-        "hideCode" : false,
-        "hideResult" : false,
-        "hideGutter" : true,
-        "hideVizConfig" : false,
-        "hideInIFrame" : false,
-        "enabled" : true,
-        "forms" : null,
-        "result" : null,
-        "relations" : [ ],
-        "dynamicFormParams" : null
-      },
-      {
-        "row" : 0,
-        "col" : 0,
-        "sizeX" : 0,
-        "width" : 0,
-        "title" : null,
-        "hasTitle" : false,
-        "message" : [
-          "%md",
-          "HOOOA "
-        ],
-        "selectedVisualization" : null,
-        "visualizationConfig" : null,
-        "hideCode" : false,
-        "hideResult" : false,
-        "hideGutter" : true,
-        "hideVizConfig" : false,
-        "hideInIFrame" : false,
-        "enabled" : true,
-        "forms" : null,
-        "result" : null,
+        "result" : {
+          "startTime" : 1695731021442,
+          "endTime" : 1695731021506,
+          "interpreter" : "md",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "<blockquote>\n<p>This is a test. I am a quote</p>\n</blockquote>\n<h3 id=\"i-am-just-a-header\">I am just a header</h3>\n<p>Disregard this text right now</p>\n",
+              "type" : "HTML"
+            }
+          ],
+          "forms" : "[]"
+        },
         "relations" : [ ],
         "dynamicFormParams" : null
       }
