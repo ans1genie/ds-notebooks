@@ -1,11 +1,8 @@
 [
   {
-    "name" : "aaitbaha/babysteps/md_hello",
-    "description" : "markdown basic hello test",
-    "tags" : [
-      "markdown",
-      "hello"
-    ],
+    "name" : "aaitbaha/babysteps/hello",
+    "description" : null,
+    "tags" : null,
     "version" : "6",
     "layout" : "zeppelin",
     "type" : "Default",
@@ -18,14 +15,14 @@
         "row" : 0,
         "col" : 0,
         "sizeX" : 0,
-        "width" : 0,
+        "width" : 12,
         "title" : null,
         "hasTitle" : false,
         "message" : [
-          "%python",
-          "print (\"hello\")"
+          "%md",
+          "> Hey friend, just smile :)"
         ],
-        "selectedVisualization" : "raw",
+        "selectedVisualization" : "html",
         "visualizationConfig" : null,
         "hideCode" : false,
         "hideResult" : false,
@@ -35,15 +32,15 @@
         "enabled" : true,
         "forms" : null,
         "result" : {
-          "startTime" : 1685453768672,
-          "endTime" : 1685453768745,
-          "interpreter" : "python",
+          "startTime" : 1692110325652,
+          "endTime" : 1692110325720,
+          "interpreter" : "md",
           "taskStatus" : "SUCCESS",
           "status" : "SUCCESS",
           "results" : [
             {
-              "message" : "hello\n",
-              "type" : "TEXT"
+              "message" : "<blockquote>\n<p>Hey friend, just smile :)</p>\n</blockquote>\n",
+              "type" : "HTML"
             }
           ],
           "forms" : "[]"
@@ -55,14 +52,14 @@
         "row" : 0,
         "col" : 0,
         "sizeX" : 0,
-        "width" : 0,
+        "width" : 12,
         "title" : null,
         "hasTitle" : false,
         "message" : [
-          "%python",
-          "print (\"Aloha from Morocco\")"
+          "%md",
+          "**Hello World**"
         ],
-        "selectedVisualization" : "raw",
+        "selectedVisualization" : "html",
         "visualizationConfig" : null,
         "hideCode" : false,
         "hideResult" : false,
@@ -72,15 +69,167 @@
         "enabled" : true,
         "forms" : null,
         "result" : {
-          "startTime" : 1685536688269,
-          "endTime" : 1685536688363,
-          "interpreter" : "python",
+          "startTime" : 1691404601245,
+          "endTime" : 1691404601298,
+          "interpreter" : "md",
           "taskStatus" : "SUCCESS",
           "status" : "SUCCESS",
           "results" : [
             {
-              "message" : "Aloha from Morocco\n",
-              "type" : "TEXT"
+              "message" : "<p><strong>Hello World</strong></p>\n",
+              "type" : "HTML"
+            }
+          ],
+          "forms" : "[]"
+        },
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      },
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 12,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%md",
+          "# Helloooow"
+        ],
+        "selectedVisualization" : "html",
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : {
+          "startTime" : 1692110020477,
+          "endTime" : 1692110020541,
+          "interpreter" : "md",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "<h1 id=\"helloooow\">Helloooow</h1>\n",
+              "type" : "HTML"
+            }
+          ],
+          "forms" : "[]"
+        },
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      },
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 12,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%md",
+          "# Mooooorning "
+        ],
+        "selectedVisualization" : "html",
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : {
+          "startTime" : 1695730888457,
+          "endTime" : 1695730888520,
+          "interpreter" : "md",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "<h1 id=\"mooooorning\">Mooooorning</h1>\n",
+              "type" : "HTML"
+            }
+          ],
+          "forms" : "[]"
+        },
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      },
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 12,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%md",
+          "### Smile tho"
+        ],
+        "selectedVisualization" : "html",
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : {
+          "startTime" : 1695730887506,
+          "endTime" : 1695730887585,
+          "interpreter" : "md",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "<h3 id=\"smile-tho\">Smile tho</h3>\n",
+              "type" : "HTML"
+            }
+          ],
+          "forms" : "[]"
+        },
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      },
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 12,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%md",
+          "> This is a test. I am a quote",
+          "",
+          "### I am just a header",
+          "",
+          "Disregard this text right now"
+        ],
+        "selectedVisualization" : "html",
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : {
+          "startTime" : 1695731021442,
+          "endTime" : 1695731021506,
+          "interpreter" : "md",
+          "taskStatus" : "SUCCESS",
+          "status" : "SUCCESS",
+          "results" : [
+            {
+              "message" : "<blockquote>\n<p>This is a test. I am a quote</p>\n</blockquote>\n<h3 id=\"i-am-just-a-header\">I am just a header</h3>\n<p>Disregard this text right now</p>\n",
+              "type" : "HTML"
             }
           ],
           "forms" : "[]"
